@@ -1,12 +1,10 @@
 # Teddying
 A long long time ago, there is a Teddy living in Taiwan.
 
-#Ubuntu Dependcies:
+## Ubuntu Dependcies:
   <pre>sudo apt install libfltk1.3-dev uuid-dev libxmu-dev nodejs-legacy npm g++ build-essential</pre>
 
-
-
-#Workflow:
+## Workflow:
 1. <a href="https://github.com/T-R-I-P/Teddy">Teddy</a>
 2. <a href="https://github.com/T-R-I-P/Pinocchio">Pinocchio</a>
 3. <a href="https://github.com/ian910297/buildFBX">buildFBX (Private Repo)</a>
@@ -14,8 +12,8 @@ A long long time ago, there is a Teddy living in Taiwan.
 5. <a href="https://github.com/T-R-I-P/TeddyWebUI">TeddyWebUI</a>
 6. <a href="https://github.com/T-R-I-P/Unity-Autogen">Unity-Autogen (Not Available)</a >
 
-#Slides: 
-#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/T-R-I-P/Teddying/blob/master/Presentation_Final.pdf">Click Here!</a>
+## Slides: 
+##### [Click Here!](https://github.com/T-R-I-P/Teddying/blob/master/Presentation_Final.pdf)
 
-#Demo Video: 
-#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/5PfB7i0yEso">Watch it On Youtube</a>
+## Demo Video: 
+##### [Watch it On Youtube](https://youtu.be/5PfB7i0yEso)
