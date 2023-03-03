@@ -16,4 +16,4 @@ A long long time ago, there is a Teddy living in Taiwan.
 ##### [Click Here!](https://github.com/T-R-I-P/Teddying/blob/master/Presentation_Final.pdf)
 
 ## Demo Video: 
-##### [Watch it On Youtube](https://youtu.be/5PfB7i0yEso)
+##### [Watch it On Youtube](https://youtu.be/1WXShhMimr4)
